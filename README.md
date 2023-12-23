@@ -1,2 +1,2 @@
 # Diece-Game
-I am learning Web development from Dr. Angela Yu and in that course I make this small dice game.
+This repository marks my journey in web development under the mentorship of Dr. Angela Yu. As part of the course, I've crafted a simple yet interactive Dice Game using HTML, CSS, and JavaScript. It's a hands-on representation of my learning progress. Feel free to roll the dice and explore the code! Grateful for Dr. Angela Yu's guidance, this project is a testament to the practical skills gained in the course. Let the coding adventure continue!
